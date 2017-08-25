@@ -1,0 +1,24 @@
+{
+  "name": "myfirstwebserver",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodetest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMT95/MyFirstNodeServer.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "cmt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMT95/MyFirstNodeServer/issues"
+  },
+  "homepage": "https://github.com/CMT95/MyFirstNodeServer#readme",
+  "engines" : {"node": "0.12.x"}
+}
